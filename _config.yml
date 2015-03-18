@@ -1,0 +1,23 @@
+encoding: UTF-8
+safe: true
+lsi: false
+highlighter: pygments
+markdown: kramdown
+exclude: [
+    "*.sln",
+    "*.v12.suo",
+    "*.csproj",
+    "*.csproj.user",
+    "Gemfile",
+    "Gemfile.lock",
+    "*.scss",
+    "*.map",
+    "*.map.css"
+    ]
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
