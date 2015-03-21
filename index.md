@@ -1,7 +1,14 @@
 ---
 title: Bob's Friends
+group: main
 ---
 
-# Who the \*\*\*\* is Bob?
+# Who is <span class="key">Bob</span>?
 
-Truth is, that **Bob** is just an acronym. As in **B**uild **o**ur **b**usiness.
+To begin with, <span class="key">Bob</span> is an acronym. As in
+<span class="key"><u>B</u>uild <u>o</u>ur <u>b</u>usiness</span>.
+It's a request for a piece of software to become a useful tool. A tool helping
+to solve the day to day problems of businesses. At the same time this request
+is a mission for the people behind Bob. The people who develop the
+concepts, who devise Bob´s future and who plan and implement
+the changes to make improvements. <span class="key">Bob´s Friends</span>.

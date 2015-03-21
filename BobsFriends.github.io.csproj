@@ -63,6 +63,8 @@
     <Content Include="css\styles.min.css">
       <DependentUpon>styles.css</DependentUpon>
     </Content>
+    <Content Include="images\favicon.ico" />
+    <Content Include="images\Bob.png" />
     <Content Include="images\body-bg.png" />
     <Content Include="images\highlight-bg.jpg" />
     <Content Include="images\hr.png" />
@@ -74,7 +76,9 @@
     <Content Include="stylesheets\print.css" />
     <Content Include="stylesheets\pygment_trac.css" />
     <Content Include="stylesheets\stylesheet.css" />
+    <None Include="_includes\pages_list" />
     <Content Include="_layouts\default.html" />
+    <Content Include="_layouts\head.html" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
