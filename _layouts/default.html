@@ -5,7 +5,7 @@
 </head>
 <body role="document">
     <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container-fluid">
+        <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -14,31 +14,34 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#"><img alt="Brand" src="images/Bob.png" width="24" height="24"></a>
+                <a class="navbar-brand" href="{{site.url}}/">
+                    <span class="key">
+                        <img alt="Brand" src="{{site.url}}/images/Bob.png" width="24" height="24">
+                        Bob, build our business!
+                    </span>
+                </a>
             </div>
-
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav">
-                    {% assign pages_list = site.pages %}
-                    {% assign group = 'main' %}
-                    {% include pages_list %}
+                <ul class="nav navbar-nav navbar-right">
+                    {% assign pages = site.pages | sort: 'order' %}
+                    {% for p in pages %}
+                    {% if p.order != null %}
+                    {% if page.url == p.url %}
+                    <li class="active"><a href="{{ p.url | remove: "index.html" }}" class="active">{{p.title}}</a></li>
+                    {% else %}
+                    <li><a href="{{ p.url | remove: "index.html" }}">{{p.title}}</a></li>
+                    {% endif %}
+                    {% endif %}
+                    {% endfor %}
                 </ul>
             </div>
         </div>
     </nav>
-
     <div class="container" role="main">
-        <div class="jumbotron">
-            <h1 class="key">Bob, build our business!</h1>
-            <p class="lead">Brought to you by <span class="key">Bob´s Friends.</span></p>
-            <p><a href="https://github.com/BobsFriends" class="btn btn-primary" role="button">View on GitHub</a></p>
-        </div>
-
         {{ content }}
-
         <footer class="footer">
-            <p>&copy; Copyright 2015 by Bob´s Friends.</p>
+            <p>&copy; Copyright 2015 by <span class="key">Bob´s Friends</span>.</p>
         </footer>
     </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

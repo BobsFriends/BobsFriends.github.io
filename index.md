@@ -1,7 +1,13 @@
 ---
-title: Bob's Friends
-group: main
+title: Bob´s Friends
+order: 000
 ---
+
+<div class="jumbotron">
+    <h1 class="key">Bob, build our business!</h1>
+    <p class="lead">Brought to you by <span class="key">Bob´s Friends.</span></p>
+    <p><a href="https://github.com/BobsFriends" class="btn btn-primary" role="button">View on GitHub</a></p>
+</div>
 
 # Who is <span class="key">Bob</span>?
 
