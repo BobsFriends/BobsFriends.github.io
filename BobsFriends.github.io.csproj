@@ -78,7 +78,7 @@
     <Content Include="stylesheets\stylesheet.css" />
     <None Include="_includes\pages_list" />
     <Content Include="_layouts\default.html" />
-    <Content Include="_layouts\head.html" />
+    <Content Include="_includes\head.html" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
