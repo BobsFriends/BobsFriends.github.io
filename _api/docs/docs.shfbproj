@@ -67,7 +67,8 @@
     </PlugInConfigurations>
     <ProjectSummary>This is the API documentation of Bob&amp;#39%3bs projects.</ProjectSummary>
     <WorkingPath>..\..\api-docs\_work\</WorkingPath>
-    <HeaderText>Brought to you by &amp;lt%3ba href=&amp;quot%3b/&amp;quot%3b&amp;gt%3bBob&amp;#39%3bs Friends&amp;lt%3b/a&amp;gt%3b.</HeaderText>
+    <HeaderText>
+    </HeaderText>
     <CopyrightHref>
     </CopyrightHref>
     <CopyrightText>Copyright \xA9 2015 by Bob&amp;#39%3bs Friends</CopyrightText>
