@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/8f936c4f-7862-497f-8d87-21a9b99bb4f1.htm" />
+  <HelpTOCNode Id="46d2e204-272a-43e3-9d4c-56ba1319e8b4" Title="Version History" Url="html/ce39121e-29b6-4e7d-8ec1-502fe5304e85.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/31e3e252-f7a0-4142-8ca5-bfa1c0bf7f46.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="a87c4398-4739-47f8-8c98-bd6644adad62" Title="Bobs" Url="html/8bec2177-b90e-f07a-a57b-2eb96843dc67.htm">
+    <HelpTOCNode Id="f13872d0-854a-4f58-be92-56fbb3ab862a" Title="Check Class" Url="html/7b11ed31-7b88-c78c-7098-55d9c1d03e57.htm">
+      <HelpTOCNode Id="8eaabb48-6cb5-421c-a78c-cdac405ea54b" Title="Check Methods" Url="html/b0269379-bf4c-08f1-78b6-89b46da292c6.htm">
+        <HelpTOCNode Title="NotEmpty Method " Url="html/1494c633-3438-2ab5-da1b-68b1a1a2d884.htm" />
+        <HelpTOCNode Title="NotNull(T) Method " Url="html/d45b82c8-b6d7-17e0-49fa-c2620ecaf79b.htm" />
+        <HelpTOCNode Id="a3964b58-9573-4ea9-9e80-bb2ba7c6e912" Title="That Method " Url="html/5f27374c-d85f-e59c-9e2c-9eef3fee7762.htm">
+          <HelpTOCNode Title="That Method (Boolean, String, String)" Url="html/84527f88-f877-1ea6-2bae-cd40d4a5147f.htm" />
+          <HelpTOCNode Title="That Method (Func(Boolean), String, String)" Url="html/86c2ba34-d775-b4e3-5b3b-998a551e7a4a.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dfec0a8c-ba91-4093-b73b-1cfd1a11c3ee" Title="FuncExtensions Class" Url="html/968d37ce-b4e9-a23d-d935-c7313e7139ec.htm">
+      <HelpTOCNode Id="a1bf211e-1218-4b1e-a5b7-0ea91bd09691" Title="FuncExtensions Methods" Url="html/5390e2f6-7898-0e9a-0ca8-308fbaa8f1ee.htm">
+        <HelpTOCNode Title="AsFunc(T) Method " Url="html/baab2e0c-dcd8-7583-d87f-46beb03e2518.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

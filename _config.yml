@@ -12,7 +12,11 @@ exclude: [
     "Gemfile.lock",
     "*.scss",
     "*.map",
-    "*.map.css"
+    "*.map.css",
+    "packages",
+    "bin",
+    "obj",
+    "Thumbs.db"
     ]
 
 defaults:

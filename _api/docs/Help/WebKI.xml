@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AsFunc(Of T) method" Url="html/baab2e0c-dcd8-7583-d87f-46beb03e2518.htm" />
+  <HelpKINode Title="AsFunc&lt;T&gt; method" Url="html/baab2e0c-dcd8-7583-d87f-46beb03e2518.htm" />
+  <HelpKINode Title="Bobs namespace" Url="html/8bec2177-b90e-f07a-a57b-2eb96843dc67.htm" />
+  <HelpKINode Title="Bobs.Check class" Url="html/7b11ed31-7b88-c78c-7098-55d9c1d03e57.htm" />
+  <HelpKINode Title="Bobs.FuncExtensions class" Url="html/968d37ce-b4e9-a23d-d935-c7313e7139ec.htm" />
+  <HelpKINode Title="Check class">
+    <HelpKINode Title="Check Class" Url="html/7b11ed31-7b88-c78c-7098-55d9c1d03e57.htm" />
+    <HelpKINode Title="about Check class" Url="html/7b11ed31-7b88-c78c-7098-55d9c1d03e57.htm" />
+    <HelpKINode Title="methods" Url="html/b0269379-bf4c-08f1-78b6-89b46da292c6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Check.NotEmpty method" Url="html/1494c633-3438-2ab5-da1b-68b1a1a2d884.htm" />
+  <HelpKINode Title="Check.NotNull(Of T) method" Url="html/d45b82c8-b6d7-17e0-49fa-c2620ecaf79b.htm" />
+  <HelpKINode Title="Check.NotNull&lt;T&gt; method" Url="html/d45b82c8-b6d7-17e0-49fa-c2620ecaf79b.htm" />
+  <HelpKINode Title="Check.That method" Url="html/5f27374c-d85f-e59c-9e2c-9eef3fee7762.htm" />
+  <HelpKINode Title="FuncExtensions class">
+    <HelpKINode Title="FuncExtensions Class" Url="html/968d37ce-b4e9-a23d-d935-c7313e7139ec.htm" />
+    <HelpKINode Title="about FuncExtensions class" Url="html/968d37ce-b4e9-a23d-d935-c7313e7139ec.htm" />
+    <HelpKINode Title="methods" Url="html/5390e2f6-7898-0e9a-0ca8-308fbaa8f1ee.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FuncExtensions.AsFunc(Of T) method" Url="html/baab2e0c-dcd8-7583-d87f-46beb03e2518.htm" />
+  <HelpKINode Title="FuncExtensions.AsFunc&lt;T&gt; method" Url="html/baab2e0c-dcd8-7583-d87f-46beb03e2518.htm" />
+  <HelpKINode Title="NotEmpty method" Url="html/1494c633-3438-2ab5-da1b-68b1a1a2d884.htm" />
+  <HelpKINode Title="NotNull(Of T) method" Url="html/d45b82c8-b6d7-17e0-49fa-c2620ecaf79b.htm" />
+  <HelpKINode Title="NotNull&lt;T&gt; method" Url="html/d45b82c8-b6d7-17e0-49fa-c2620ecaf79b.htm" />
+  <HelpKINode Title="That method" Url="html/5f27374c-d85f-e59c-9e2c-9eef3fee7762.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/31e3e252-f7a0-4142-8ca5-bfa1c0bf7f46.htm" />
+    <HelpKINode Title="history" Url="html/ce39121e-29b6-4e7d-8ec1-502fe5304e85.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/8f936c4f-7862-497f-8d87-21a9b99bb4f1.htm" />
+</HelpKI>

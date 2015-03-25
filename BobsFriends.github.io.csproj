@@ -77,6 +77,7 @@
     <Content Include="stylesheets\pygment_trac.css" />
     <Content Include="stylesheets\stylesheet.css" />
     <Content Include="projects\index.md" />
+    <Content Include="_layouts\full.html" />
     <Content Include="_layouts\default.html" />
     <Content Include="_includes\head.html" />
   </ItemGroup>
@@ -96,6 +97,9 @@
     <Content Include="css\styles.css.map">
       <DependentUpon>styles.css</DependentUpon>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="docs\index.md" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

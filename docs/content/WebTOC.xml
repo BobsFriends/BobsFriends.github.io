@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to Bob&#39;s API" Url="html/8f936c4f-7862-497f-8d87-21a9b99bb4f1.htm" />
+  <HelpTOCNode Id="65bce301-5080-4ac4-868e-f8dc96a4b682" Title="Version History" Url="html/ce39121e-29b6-4e7d-8ec1-502fe5304e85.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/31e3e252-f7a0-4142-8ca5-bfa1c0bf7f46.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="4fa9424b-c06d-4880-8eb7-a9d1c28176bf" Title="Bobs" Url="html/D3D28CF6.htm">
+    <HelpTOCNode Id="61f32d1d-5afe-4e3a-aca6-a40e82746e68" Title="Check Class" Url="html/BA8C5C35.htm">
+      <HelpTOCNode Id="f8ce32e3-c33d-480c-a4e5-0251e78db1b6" Title="Check Methods" Url="html/271067D.htm">
+        <HelpTOCNode Title="NotEmpty Method " Url="html/88FD15FE.htm" />
+        <HelpTOCNode Title="NotNull(T) Method " Url="html/8C42AE46.htm" />
+        <HelpTOCNode Id="bb23b5c4-afc0-4c92-82b3-e3a33b922262" Title="That Method " Url="html/A311B613.htm">
+          <HelpTOCNode Title="That Method (Boolean, String, String)" Url="html/D75A5BDA.htm" />
+          <HelpTOCNode Title="That Method (Func(Boolean), String, String)" Url="html/2A9FB204.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

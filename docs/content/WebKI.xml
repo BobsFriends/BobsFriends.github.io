@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Bobs namespace" Url="html/D3D28CF6.htm" />
+  <HelpKINode Title="Bobs.Check class" Url="html/BA8C5C35.htm" />
+  <HelpKINode Title="Check class">
+    <HelpKINode Title="Check Class" Url="html/BA8C5C35.htm" />
+    <HelpKINode Title="about Check class" Url="html/BA8C5C35.htm" />
+    <HelpKINode Title="methods" Url="html/271067D.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Check.NotEmpty method" Url="html/88FD15FE.htm" />
+  <HelpKINode Title="Check.NotNull(Of T) method" Url="html/8C42AE46.htm" />
+  <HelpKINode Title="Check.NotNull&lt;T&gt; method" Url="html/8C42AE46.htm" />
+  <HelpKINode Title="Check.That method" Url="html/A311B613.htm" />
+  <HelpKINode Title="NotEmpty method" Url="html/88FD15FE.htm" />
+  <HelpKINode Title="NotNull(Of T) method" Url="html/8C42AE46.htm" />
+  <HelpKINode Title="NotNull&lt;T&gt; method" Url="html/8C42AE46.htm" />
+  <HelpKINode Title="That method" Url="html/A311B613.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/31e3e252-f7a0-4142-8ca5-bfa1c0bf7f46.htm" />
+    <HelpKINode Title="history" Url="html/ce39121e-29b6-4e7d-8ec1-502fe5304e85.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/8f936c4f-7862-497f-8d87-21a9b99bb4f1.htm" />
+</HelpKI>
