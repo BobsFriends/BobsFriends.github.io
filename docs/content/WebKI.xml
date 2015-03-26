@@ -2,6 +2,10 @@
 <HelpKI>
   <HelpKINode Title="Bobs namespace" Url="html/D3D28CF6.htm" />
   <HelpKINode Title="Bobs.Check class" Url="html/BA8C5C35.htm" />
+  <HelpKINode Title="Bobs.Lumberjack namespace" Url="html/4B71AE53.htm" />
+  <HelpKINode Title="Bobs.Lumberjack.ILogger interface" Url="html/6E5E6A05.htm" />
+  <HelpKINode Title="Bobs.Lumberjack.ILoggerExtensions class" Url="html/783EAC1A.htm" />
+  <HelpKINode Title="Bobs.Lumberjack.Level enumeration" Url="html/E2AC2DE3.htm" />
   <HelpKINode Title="Check class">
     <HelpKINode Title="Check Class" Url="html/BA8C5C35.htm" />
     <HelpKINode Title="about Check class" Url="html/BA8C5C35.htm" />
@@ -11,13 +15,58 @@
   <HelpKINode Title="Check.NotNull(Of T) method" Url="html/8C42AE46.htm" />
   <HelpKINode Title="Check.NotNull&lt;T&gt; method" Url="html/8C42AE46.htm" />
   <HelpKINode Title="Check.That method" Url="html/A311B613.htm" />
+  <HelpKINode Title="Debug enumeration member" Url="html/E2AC2DE3.htm" />
+  <HelpKINode Title="Debug method" Url="html/4F78548E.htm" />
+  <HelpKINode Title="Error enumeration member" Url="html/E2AC2DE3.htm" />
+  <HelpKINode Title="Error method" Url="html/B11A59CD.htm" />
+  <HelpKINode Title="Fatal enumeration member" Url="html/E2AC2DE3.htm" />
+  <HelpKINode Title="Fatal method" Url="html/F73270A6.htm" />
+  <HelpKINode Title="ILogger interface">
+    <HelpKINode Title="ILogger Interface" Url="html/6E5E6A05.htm" />
+    <HelpKINode Title="about ILogger interface" Url="html/6E5E6A05.htm" />
+    <HelpKINode Title="methods" Url="html/513CB186.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogger.IsEnabled method" Url="html/8F5E585B.htm" />
+  <HelpKINode Title="ILogger.Log method" Url="html/927B4076.htm" />
+  <HelpKINode Title="ILoggerExtensions class">
+    <HelpKINode Title="ILoggerExtensions Class" Url="html/783EAC1A.htm" />
+    <HelpKINode Title="about ILoggerExtensions class" Url="html/783EAC1A.htm" />
+    <HelpKINode Title="methods" Url="html/18F5010E.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILoggerExtensions.Debug method" Url="html/4F78548E.htm" />
+  <HelpKINode Title="ILoggerExtensions.Error method" Url="html/B11A59CD.htm" />
+  <HelpKINode Title="ILoggerExtensions.Fatal method" Url="html/F73270A6.htm" />
+  <HelpKINode Title="ILoggerExtensions.Info method" Url="html/D73859D9.htm" />
+  <HelpKINode Title="ILoggerExtensions.IsDebugEnabled method" Url="html/83FDAABD.htm" />
+  <HelpKINode Title="ILoggerExtensions.IsErrorEnabled method" Url="html/89AA19CE.htm" />
+  <HelpKINode Title="ILoggerExtensions.IsFatalEnabled method" Url="html/C393822.htm" />
+  <HelpKINode Title="ILoggerExtensions.IsInfoEnabled method" Url="html/FECC8590.htm" />
+  <HelpKINode Title="ILoggerExtensions.IsTraceEnabled method" Url="html/6D698011.htm" />
+  <HelpKINode Title="ILoggerExtensions.IsWarnEnabled method" Url="html/69C7F2DA.htm" />
+  <HelpKINode Title="ILoggerExtensions.Trace method" Url="html/2EF78761.htm" />
+  <HelpKINode Title="ILoggerExtensions.Warn method" Url="html/A9ADCE77.htm" />
+  <HelpKINode Title="Info enumeration member" Url="html/E2AC2DE3.htm" />
+  <HelpKINode Title="Info method" Url="html/D73859D9.htm" />
+  <HelpKINode Title="IsDebugEnabled method" Url="html/83FDAABD.htm" />
+  <HelpKINode Title="IsEnabled method" Url="html/8F5E585B.htm" />
+  <HelpKINode Title="IsErrorEnabled method" Url="html/89AA19CE.htm" />
+  <HelpKINode Title="IsFatalEnabled method" Url="html/C393822.htm" />
+  <HelpKINode Title="IsInfoEnabled method" Url="html/FECC8590.htm" />
+  <HelpKINode Title="IsTraceEnabled method" Url="html/6D698011.htm" />
+  <HelpKINode Title="IsWarnEnabled method" Url="html/69C7F2DA.htm" />
+  <HelpKINode Title="Level enumeration" Url="html/E2AC2DE3.htm" />
+  <HelpKINode Title="Log method" Url="html/927B4076.htm" />
   <HelpKINode Title="NotEmpty method" Url="html/88FD15FE.htm" />
   <HelpKINode Title="NotNull(Of T) method" Url="html/8C42AE46.htm" />
   <HelpKINode Title="NotNull&lt;T&gt; method" Url="html/8C42AE46.htm" />
   <HelpKINode Title="That method" Url="html/A311B613.htm" />
+  <HelpKINode Title="Trace enumeration member" Url="html/E2AC2DE3.htm" />
+  <HelpKINode Title="Trace method" Url="html/2EF78761.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="1.0.0.0" Url="html/31e3e252-f7a0-4142-8ca5-bfa1c0bf7f46.htm" />
     <HelpKINode Title="history" Url="html/ce39121e-29b6-4e7d-8ec1-502fe5304e85.htm" />
   </HelpKINode>
+  <HelpKINode Title="Warn enumeration member" Url="html/E2AC2DE3.htm" />
+  <HelpKINode Title="Warn method" Url="html/A9ADCE77.htm" />
   <HelpKINode Title="Welcome" Url="html/8f936c4f-7862-497f-8d87-21a9b99bb4f1.htm" />
 </HelpKI>

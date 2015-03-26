@@ -42,6 +42,8 @@
     <DocumentationSources>
       <DocumentationSource sourceFile="..\assets\ConsoleHost\bin\Release\Bobs.Utilities.dll" />
       <DocumentationSource sourceFile="..\assets\ConsoleHost\bin\Release\Bobs.Utilities.xml" />
+      <DocumentationSource sourceFile="..\assets\ConsoleHost\bin\Release\Bobs.Lumberjack.dll" />
+      <DocumentationSource sourceFile="..\assets\ConsoleHost\bin\Release\Bobs.Lumberjack.xml" />
     </DocumentationSources>
     <MaximumGroupParts>2</MaximumGroupParts>
     <NamespaceGrouping>False</NamespaceGrouping>
@@ -61,6 +63,7 @@
             <assemblyIdentity name="BusinessObjects.Licensing.KeycodeDecoder" />
             <assemblyIdentity name="mscorlib" />
             <assemblyIdentity name="System" />
+            <assemblyIdentity name="System.Core" />
           </ignoreIfUnresolved>
         </configuration>
       </PlugInConfig>
