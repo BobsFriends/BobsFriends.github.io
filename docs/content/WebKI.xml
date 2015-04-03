@@ -2,10 +2,17 @@
 <HelpKI>
   <HelpKINode Title="Bobs namespace" Url="html/D3D28CF6.htm" />
   <HelpKINode Title="Bobs.Check class" Url="html/BA8C5C35.htm" />
+  <HelpKINode Title="Bobs.Enum(Of TEnum) class" Url="html/E5763A61.htm" />
+  <HelpKINode Title="Bobs.Enum&lt;TEnum&gt; class" Url="html/E5763A61.htm" />
   <HelpKINode Title="Bobs.Lumberjack namespace" Url="html/4B71AE53.htm" />
   <HelpKINode Title="Bobs.Lumberjack.ILogger interface" Url="html/6E5E6A05.htm" />
   <HelpKINode Title="Bobs.Lumberjack.ILoggerExtensions class" Url="html/783EAC1A.htm" />
+  <HelpKINode Title="Bobs.Lumberjack.ILogManager interface" Url="html/7D00CBBF.htm" />
+  <HelpKINode Title="Bobs.Lumberjack.ILogManagerExtensions class" Url="html/F5FD0039.htm" />
   <HelpKINode Title="Bobs.Lumberjack.Level enumeration" Url="html/E2AC2DE3.htm" />
+  <HelpKINode Title="Bobs.Lumberjack.LogManager class" Url="html/47E3CE75.htm" />
+  <HelpKINode Title="Bobs.Lumberjack.LogManagerBase class" Url="html/E573B85A.htm" />
+  <HelpKINode Title="Bobs.StringFormatter class" Url="html/C4AF340F.htm" />
   <HelpKINode Title="Check class">
     <HelpKINode Title="Check Class" Url="html/BA8C5C35.htm" />
     <HelpKINode Title="about Check class" Url="html/BA8C5C35.htm" />
@@ -15,19 +22,53 @@
   <HelpKINode Title="Check.NotNull(Of T) method" Url="html/8C42AE46.htm" />
   <HelpKINode Title="Check.NotNull&lt;T&gt; method" Url="html/8C42AE46.htm" />
   <HelpKINode Title="Check.That method" Url="html/A311B613.htm" />
+  <HelpKINode Title="Current property" Url="html/DD7105B8.htm" />
   <HelpKINode Title="Debug enumeration member" Url="html/E2AC2DE3.htm" />
   <HelpKINode Title="Debug method" Url="html/4F78548E.htm" />
+  <HelpKINode Title="Enum(Of TEnum) class">
+    <HelpKINode Title="Enum(TEnum) Class" Url="html/E5763A61.htm" />
+    <HelpKINode Title="about Enum(Of TEnum) class" Url="html/E5763A61.htm" />
+    <HelpKINode Title="methods" Url="html/920A6803.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Enum(Of TEnum).GetName method" Url="html/6E056406.htm" />
+  <HelpKINode Title="Enum(Of TEnum).GetNames method" Url="html/6E166406.htm" />
+  <HelpKINode Title="Enum(Of TEnum).GetUnderlyingType method" Url="html/88609E01.htm" />
+  <HelpKINode Title="Enum(Of TEnum).GetValues method" Url="html/581816F2.htm" />
+  <HelpKINode Title="Enum(Of TEnum).IsDefined method" Url="html/9CD07D3.htm" />
+  <HelpKINode Title="Enum(Of TEnum).Parse method" Url="html/A72BD02C.htm" />
+  <HelpKINode Title="Enum(Of TEnum).ToEnum method" Url="html/9A5394FF.htm" />
+  <HelpKINode Title="Enum&lt;TEnum&gt; class">
+    <HelpKINode Title="Enum(TEnum) Class" Url="html/E5763A61.htm" />
+    <HelpKINode Title="about Enum&lt;TEnum&gt; class" Url="html/E5763A61.htm" />
+    <HelpKINode Title="methods" Url="html/920A6803.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Enum&lt;TEnum&gt;.GetName method" Url="html/6E056406.htm" />
+  <HelpKINode Title="Enum&lt;TEnum&gt;.GetNames method" Url="html/6E166406.htm" />
+  <HelpKINode Title="Enum&lt;TEnum&gt;.GetUnderlyingType method" Url="html/88609E01.htm" />
+  <HelpKINode Title="Enum&lt;TEnum&gt;.GetValues method" Url="html/581816F2.htm" />
+  <HelpKINode Title="Enum&lt;TEnum&gt;.IsDefined method" Url="html/9CD07D3.htm" />
+  <HelpKINode Title="Enum&lt;TEnum&gt;.Parse method" Url="html/A72BD02C.htm" />
+  <HelpKINode Title="Enum&lt;TEnum&gt;.ToEnum method" Url="html/9A5394FF.htm" />
   <HelpKINode Title="Error enumeration member" Url="html/E2AC2DE3.htm" />
   <HelpKINode Title="Error method" Url="html/B11A59CD.htm" />
   <HelpKINode Title="Fatal enumeration member" Url="html/E2AC2DE3.htm" />
   <HelpKINode Title="Fatal method" Url="html/F73270A6.htm" />
+  <HelpKINode Title="GetLogger method">
+    <HelpKINode Title="ILogManager.GetLogger Method " Url="html/1E1CAB04.htm" />
+    <HelpKINode Title="ILogManagerExtensions.GetLogger Method " Url="html/A13804B8.htm" />
+    <HelpKINode Title="LogManagerBase.GetLogger Method " Url="html/BD25C225.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetName method" Url="html/6E056406.htm" />
+  <HelpKINode Title="GetNames method" Url="html/6E166406.htm" />
+  <HelpKINode Title="GetUnderlyingType method" Url="html/88609E01.htm" />
+  <HelpKINode Title="GetValues method" Url="html/581816F2.htm" />
   <HelpKINode Title="ILogger interface">
     <HelpKINode Title="ILogger Interface" Url="html/6E5E6A05.htm" />
     <HelpKINode Title="about ILogger interface" Url="html/6E5E6A05.htm" />
     <HelpKINode Title="methods" Url="html/513CB186.htm" />
   </HelpKINode>
   <HelpKINode Title="ILogger.IsEnabled method" Url="html/8F5E585B.htm" />
-  <HelpKINode Title="ILogger.Log method" Url="html/927B4076.htm" />
+  <HelpKINode Title="ILogger.Log method" Url="html/CC0F30F7.htm" />
   <HelpKINode Title="ILoggerExtensions class">
     <HelpKINode Title="ILoggerExtensions Class" Url="html/783EAC1A.htm" />
     <HelpKINode Title="about ILoggerExtensions class" Url="html/783EAC1A.htm" />
@@ -43,11 +84,25 @@
   <HelpKINode Title="ILoggerExtensions.IsInfoEnabled method" Url="html/FECC8590.htm" />
   <HelpKINode Title="ILoggerExtensions.IsTraceEnabled method" Url="html/6D698011.htm" />
   <HelpKINode Title="ILoggerExtensions.IsWarnEnabled method" Url="html/69C7F2DA.htm" />
+  <HelpKINode Title="ILoggerExtensions.Log method" Url="html/D97900E5.htm" />
   <HelpKINode Title="ILoggerExtensions.Trace method" Url="html/2EF78761.htm" />
   <HelpKINode Title="ILoggerExtensions.Warn method" Url="html/A9ADCE77.htm" />
+  <HelpKINode Title="ILogManager interface">
+    <HelpKINode Title="ILogManager Interface" Url="html/7D00CBBF.htm" />
+    <HelpKINode Title="about ILogManager interface" Url="html/7D00CBBF.htm" />
+    <HelpKINode Title="methods" Url="html/16579BB8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogManager.GetLogger method" Url="html/1E1CAB04.htm" />
+  <HelpKINode Title="ILogManagerExtensions class">
+    <HelpKINode Title="ILogManagerExtensions Class" Url="html/F5FD0039.htm" />
+    <HelpKINode Title="about ILogManagerExtensions class" Url="html/F5FD0039.htm" />
+    <HelpKINode Title="methods" Url="html/7C5D6DC7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogManagerExtensions.GetLogger method" Url="html/A13804B8.htm" />
   <HelpKINode Title="Info enumeration member" Url="html/E2AC2DE3.htm" />
   <HelpKINode Title="Info method" Url="html/D73859D9.htm" />
   <HelpKINode Title="IsDebugEnabled method" Url="html/83FDAABD.htm" />
+  <HelpKINode Title="IsDefined method" Url="html/9CD07D3.htm" />
   <HelpKINode Title="IsEnabled method" Url="html/8F5E585B.htm" />
   <HelpKINode Title="IsErrorEnabled method" Url="html/89AA19CE.htm" />
   <HelpKINode Title="IsFatalEnabled method" Url="html/C393822.htm" />
@@ -55,11 +110,39 @@
   <HelpKINode Title="IsTraceEnabled method" Url="html/6D698011.htm" />
   <HelpKINode Title="IsWarnEnabled method" Url="html/69C7F2DA.htm" />
   <HelpKINode Title="Level enumeration" Url="html/E2AC2DE3.htm" />
-  <HelpKINode Title="Log method" Url="html/927B4076.htm" />
+  <HelpKINode Title="Log method">
+    <HelpKINode Title="ILogger.Log Method " Url="html/CC0F30F7.htm" />
+    <HelpKINode Title="ILoggerExtensions.Log Method " Url="html/D97900E5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogManager class">
+    <HelpKINode Title="LogManager Class" Url="html/47E3CE75.htm" />
+    <HelpKINode Title="about LogManager class" Url="html/47E3CE75.htm" />
+    <HelpKINode Title="properties" Url="html/E66FBACA.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogManager.Current property" Url="html/DD7105B8.htm" />
+  <HelpKINode Title="LogManagerBase class">
+    <HelpKINode Title="LogManagerBase Class" Url="html/E573B85A.htm" />
+    <HelpKINode Title="about LogManagerBase class" Url="html/E573B85A.htm" />
+    <HelpKINode Title="constructor" Url="html/22CF39AC.htm" />
+    <HelpKINode Title="methods" Url="html/65411743.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogManagerBase.GetLogger method" Url="html/BD25C225.htm" />
+  <HelpKINode Title="LogManagerBase.LogManagerBase constructor" Url="html/22CF39AC.htm" />
   <HelpKINode Title="NotEmpty method" Url="html/88FD15FE.htm" />
   <HelpKINode Title="NotNull(Of T) method" Url="html/8C42AE46.htm" />
   <HelpKINode Title="NotNull&lt;T&gt; method" Url="html/8C42AE46.htm" />
+  <HelpKINode Title="Parse method" Url="html/A72BD02C.htm" />
+  <HelpKINode Title="StringFormatter class">
+    <HelpKINode Title="StringFormatter Class" Url="html/C4AF340F.htm" />
+    <HelpKINode Title="about StringFormatter class" Url="html/C4AF340F.htm" />
+    <HelpKINode Title="constructor" Url="html/EDD642F7.htm" />
+    <HelpKINode Title="methods" Url="html/C285156F.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringFormatter.StringFormatter constructor" Url="html/EDD642F7.htm" />
+  <HelpKINode Title="StringFormatter.ToString method" Url="html/5F8E04B9.htm" />
   <HelpKINode Title="That method" Url="html/A311B613.htm" />
+  <HelpKINode Title="ToEnum method" Url="html/9A5394FF.htm" />
+  <HelpKINode Title="ToString method" Url="html/5F8E04B9.htm" />
   <HelpKINode Title="Trace enumeration member" Url="html/E2AC2DE3.htm" />
   <HelpKINode Title="Trace method" Url="html/2EF78761.htm" />
   <HelpKINode Title="version">

@@ -2,53 +2,82 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome to Bob&#39;s API" Url="html/8f936c4f-7862-497f-8d87-21a9b99bb4f1.htm" />
-  <HelpTOCNode Id="e80b5e11-c623-43f0-82c4-245619c2e5d6" Title="Version History" Url="html/ce39121e-29b6-4e7d-8ec1-502fe5304e85.htm">
+  <HelpTOCNode Id="a50778e9-59cb-4c88-875d-801c545072b5" Title="Version History" Url="html/ce39121e-29b6-4e7d-8ec1-502fe5304e85.htm">
     <HelpTOCNode Title="Version 1.0.0.0" Url="html/31e3e252-f7a0-4142-8ca5-bfa1c0bf7f46.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="4a8726f6-a208-4043-b00f-5ba82066a6b9" Title="Bobs" Url="html/D3D28CF6.htm">
-    <HelpTOCNode Id="d0a4b735-5bb1-4cd7-9fcf-ac82e0f33404" Title="Check Class" Url="html/BA8C5C35.htm">
-      <HelpTOCNode Id="9ec0c8c8-69c0-4d74-8a8e-17850cee27ea" Title="Check Methods" Url="html/271067D.htm">
+  <HelpTOCNode Id="5c1beba5-bbe8-4e53-993b-19cb38717cd1" Title="Bobs" Url="html/D3D28CF6.htm">
+    <HelpTOCNode Id="b05531eb-1de9-4793-960f-30c6fe594ae0" Title="Check Class" Url="html/BA8C5C35.htm">
+      <HelpTOCNode Id="0248c9c7-bfb3-42e6-ba1d-30c6ecabb589" Title="Check Methods" Url="html/271067D.htm">
         <HelpTOCNode Title="NotEmpty Method " Url="html/88FD15FE.htm" />
         <HelpTOCNode Title="NotNull(T) Method " Url="html/8C42AE46.htm" />
-        <HelpTOCNode Id="4927afa5-3b96-41b0-8822-d1a6d1b01a5a" Title="That Method " Url="html/A311B613.htm">
+        <HelpTOCNode Id="7b043afb-8ca2-4e06-9eff-7d38bb59818f" Title="That Method " Url="html/A311B613.htm">
           <HelpTOCNode Title="That Method (Boolean, String, String)" Url="html/D75A5BDA.htm" />
           <HelpTOCNode Title="That Method (Func(Boolean), String, String)" Url="html/2A9FB204.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-  </HelpTOCNode>
-  <HelpTOCNode Id="53dc3aeb-4321-4b97-b951-4cfe79708ded" Title="Bobs.Lumberjack" Url="html/4B71AE53.htm">
-    <HelpTOCNode Id="9ac1fd6a-e99d-4ad8-b5aa-5b97343c660d" Title="ILogger Interface" Url="html/6E5E6A05.htm">
-      <HelpTOCNode Id="9cd9760e-5511-4ef0-84c0-fdb0bdf1e444" Title="ILogger Methods" Url="html/513CB186.htm">
-        <HelpTOCNode Title="IsEnabled Method " Url="html/8F5E585B.htm" />
-        <HelpTOCNode Id="398516e3-7a31-47f5-963e-3e77b73fa4d8" Title="Log Method " Url="html/927B4076.htm">
-          <HelpTOCNode Title="Log Method (Level, Lazy(String))" Url="html/F842BA3C.htm" />
-          <HelpTOCNode Title="Log Method (Level, Exception, String)" Url="html/CC0F30F7.htm" />
-          <HelpTOCNode Title="Log Method (Level, String, Object[])" Url="html/104C5C6B.htm" />
-        </HelpTOCNode>
+    <HelpTOCNode Id="bc845c43-76bd-40d5-9757-7cb878cb6215" Title="Enum(TEnum) Class" Url="html/E5763A61.htm">
+      <HelpTOCNode Id="b5b9acda-1940-41ff-a615-e5f166196921" Title="Enum(TEnum) Methods" Url="html/920A6803.htm">
+        <HelpTOCNode Title="GetName Method " Url="html/6E056406.htm" />
+        <HelpTOCNode Title="GetNames Method " Url="html/6E166406.htm" />
+        <HelpTOCNode Title="GetUnderlyingType Method " Url="html/88609E01.htm" />
+        <HelpTOCNode Title="GetValues Method " Url="html/581816F2.htm" />
+        <HelpTOCNode Title="IsDefined Method " Url="html/9CD07D3.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/A72BD02C.htm" />
+        <HelpTOCNode Title="ToEnum Method " Url="html/9A5394FF.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ddf1d11c-8cde-4d9b-a68a-bef149096af9" Title="ILoggerExtensions Class" Url="html/783EAC1A.htm">
-      <HelpTOCNode Id="77259de6-ab80-49dc-aed9-8f4e7d8c5bcd" Title="ILoggerExtensions Methods" Url="html/18F5010E.htm">
-        <HelpTOCNode Id="c9bc4b5c-ad20-4482-8ee5-017d6f8d2a56" Title="Debug Method " Url="html/4F78548E.htm">
-          <HelpTOCNode Title="Debug Method (ILogger, Lazy(String))" Url="html/504F4809.htm" />
-          <HelpTOCNode Title="Debug Method (ILogger, Exception, String)" Url="html/96585B34.htm" />
-          <HelpTOCNode Title="Debug Method (ILogger, String, Object[])" Url="html/3845A5DA.htm" />
+    <HelpTOCNode Id="0834142c-00bb-4247-b04d-df29b94fb48d" Title="StringFormatter Class" Url="html/C4AF340F.htm">
+      <HelpTOCNode Title="StringFormatter Constructor " Url="html/EDD642F7.htm" />
+      <HelpTOCNode Id="0623ffc0-f4bf-4e4e-871d-85671f0845d8" Title="StringFormatter Methods" Url="html/C285156F.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/5F8E04B9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a60f8599-6ae7-48dc-a3c8-b8d7dc933623" Title="Bobs.Lumberjack" Url="html/4B71AE53.htm">
+    <HelpTOCNode Id="f49978ff-d692-4480-9407-742ef297a40d" Title="ILogger Interface" Url="html/6E5E6A05.htm">
+      <HelpTOCNode Id="5bee063f-48e4-4857-9d77-71dedaa14575" Title="ILogger Methods" Url="html/513CB186.htm">
+        <HelpTOCNode Title="IsEnabled Method " Url="html/8F5E585B.htm" />
+        <HelpTOCNode Title="Log Method " Url="html/CC0F30F7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9e3a9131-4f17-4582-82aa-b7103d996ced" Title="ILoggerExtensions Class" Url="html/783EAC1A.htm">
+      <HelpTOCNode Id="0fc19f5e-d6e4-4739-b67b-b67114932c10" Title="ILoggerExtensions Methods" Url="html/18F5010E.htm">
+        <HelpTOCNode Id="1f9dce2a-856c-40ee-aea3-ba3dd1e3dd33" Title="Debug Method " Url="html/4F78548E.htm">
+          <HelpTOCNode Title="Debug Method (ILogger, Exception)" Url="html/96585B34.htm" />
+          <HelpTOCNode Title="Debug Method (ILogger, Func(String))" Url="html/7D948F10.htm" />
+          <HelpTOCNode Title="Debug Method (ILogger, String)" Url="html/DAED1A75.htm" />
+          <HelpTOCNode Title="Debug Method (ILogger, Exception, Func(String))" Url="html/504F4809.htm" />
+          <HelpTOCNode Title="Debug Method (ILogger, Exception, String)" Url="html/3845A5DA.htm" />
+          <HelpTOCNode Title="Debug Method (ILogger, String, Object[])" Url="html/C2E37846.htm" />
+          <HelpTOCNode Title="Debug Method (ILogger, Exception, String, Object[])" Url="html/959E313F.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8d935348-5b54-49a9-9243-397462a2b536" Title="Error Method " Url="html/B11A59CD.htm">
-          <HelpTOCNode Title="Error Method (ILogger, Lazy(String))" Url="html/DEB85AC5.htm" />
-          <HelpTOCNode Title="Error Method (ILogger, Exception, String)" Url="html/742A1090.htm" />
-          <HelpTOCNode Title="Error Method (ILogger, String, Object[])" Url="html/C6AEB896.htm" />
+        <HelpTOCNode Id="3f8959dd-18d3-4b34-85b4-9a7b12b3d2ec" Title="Error Method " Url="html/B11A59CD.htm">
+          <HelpTOCNode Title="Error Method (ILogger, Exception)" Url="html/742A1090.htm" />
+          <HelpTOCNode Title="Error Method (ILogger, Func(String))" Url="html/BFDA1CC.htm" />
+          <HelpTOCNode Title="Error Method (ILogger, String)" Url="html/69562D31.htm" />
+          <HelpTOCNode Title="Error Method (ILogger, Exception, Func(String))" Url="html/DEB85AC5.htm" />
+          <HelpTOCNode Title="Error Method (ILogger, Exception, String)" Url="html/C6AEB896.htm" />
+          <HelpTOCNode Title="Error Method (ILogger, String, Object[])" Url="html/514C8B02.htm" />
+          <HelpTOCNode Title="Error Method (ILogger, Exception, String, Object[])" Url="html/240743FB.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3e61abef-3cc8-4a8c-a72d-ac9b1864e32c" Title="Fatal Method " Url="html/F73270A6.htm">
-          <HelpTOCNode Title="Fatal Method (ILogger, Lazy(String))" Url="html/99798B64.htm" />
-          <HelpTOCNode Title="Fatal Method (ILogger, Exception, String)" Url="html/586DCCEF.htm" />
-          <HelpTOCNode Title="Fatal Method (ILogger, String, Object[])" Url="html/F6D216C9.htm" />
+        <HelpTOCNode Id="a8bba9db-675f-4e9c-a5ff-e787b8931ca0" Title="Fatal Method " Url="html/F73270A6.htm">
+          <HelpTOCNode Title="Fatal Method (ILogger, Exception)" Url="html/586DCCEF.htm" />
+          <HelpTOCNode Title="Fatal Method (ILogger, Func(String))" Url="html/B1832D93.htm" />
+          <HelpTOCNode Title="Fatal Method (ILogger, String)" Url="html/EDBB8F8.htm" />
+          <HelpTOCNode Title="Fatal Method (ILogger, Exception, Func(String))" Url="html/99798B64.htm" />
+          <HelpTOCNode Title="Fatal Method (ILogger, Exception, String)" Url="html/F6D216C9.htm" />
+          <HelpTOCNode Title="Fatal Method (ILogger, String, Object[])" Url="html/6C34445D.htm" />
+          <HelpTOCNode Title="Fatal Method (ILogger, Exception, String, Object[])" Url="html/542AA22E.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8438c9aa-5334-4b99-959d-6f9f1feef786" Title="Info Method " Url="html/D73859D9.htm">
-          <HelpTOCNode Title="Info Method (ILogger, Lazy(String))" Url="html/27842C5D.htm" />
-          <HelpTOCNode Title="Info Method (ILogger, Exception, String)" Url="html/8E4D900E.htm" />
-          <HelpTOCNode Title="Info Method (ILogger, String, Object[])" Url="html/27852C5D.htm" />
+        <HelpTOCNode Id="daf28cc6-6659-4408-90a4-38ae663e3f56" Title="Info Method " Url="html/D73859D9.htm">
+          <HelpTOCNode Title="Info Method (ILogger, Exception)" Url="html/8E4D900E.htm" />
+          <HelpTOCNode Title="Info Method (ILogger, Func(String))" Url="html/27872C5D.htm" />
+          <HelpTOCNode Title="Info Method (ILogger, String)" Url="html/27882C5D.htm" />
+          <HelpTOCNode Title="Info Method (ILogger, Exception, Func(String))" Url="html/27842C5D.htm" />
+          <HelpTOCNode Title="Info Method (ILogger, Exception, String)" Url="html/27852C5D.htm" />
+          <HelpTOCNode Title="Info Method (ILogger, String, Object[])" Url="html/27892C5D.htm" />
+          <HelpTOCNode Title="Info Method (ILogger, Exception, String, Object[])" Url="html/27862C5D.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="IsDebugEnabled Method " Url="html/83FDAABD.htm" />
         <HelpTOCNode Title="IsErrorEnabled Method " Url="html/89AA19CE.htm" />
@@ -56,18 +85,54 @@
         <HelpTOCNode Title="IsInfoEnabled Method " Url="html/FECC8590.htm" />
         <HelpTOCNode Title="IsTraceEnabled Method " Url="html/6D698011.htm" />
         <HelpTOCNode Title="IsWarnEnabled Method " Url="html/69C7F2DA.htm" />
-        <HelpTOCNode Id="ae6894b7-c9e5-4479-864c-1d81e8f07ca0" Title="Trace Method " Url="html/2EF78761.htm">
-          <HelpTOCNode Title="Trace Method (ILogger, Lazy(String))" Url="html/76461448.htm" />
-          <HelpTOCNode Title="Trace Method (ILogger, Exception, String)" Url="html/6EDCD19D.htm" />
-          <HelpTOCNode Title="Trace Method (ILogger, String, Object[])" Url="html/8E4FB677.htm" />
+        <HelpTOCNode Id="25a96da1-733a-4959-a8b2-ee9d2b4bdfce" Title="Log Method " Url="html/D97900E5.htm">
+          <HelpTOCNode Title="Log Method (ILogger, Level, Exception)" Url="html/21341B70.htm" />
+          <HelpTOCNode Title="Log Method (ILogger, Level, String)" Url="html/A7DAB7C9.htm" />
+          <HelpTOCNode Title="Log Method (ILogger, Level, Exception, String)" Url="html/A7DAB7C7.htm" />
+          <HelpTOCNode Title="Log Method (ILogger, Level, String, Object[])" Url="html/A7DAB7CC.htm" />
+          <HelpTOCNode Title="Log Method (ILogger, Level, Exception, String, Object[])" Url="html/A7DAB7CA.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="00aa8396-d2e6-4ecc-934e-bea728e64d69" Title="Warn Method " Url="html/A9ADCE77.htm">
-          <HelpTOCNode Title="Warn Method (ILogger, Lazy(String))" Url="html/FD4B132B.htm" />
-          <HelpTOCNode Title="Warn Method (ILogger, Exception, String)" Url="html/64967408.htm" />
-          <HelpTOCNode Title="Warn Method (ILogger, String, Object[])" Url="html/FD4E132B.htm" />
+        <HelpTOCNode Id="55768ab3-2eb4-4e7d-b97e-29d433b9693b" Title="Trace Method " Url="html/2EF78761.htm">
+          <HelpTOCNode Title="Trace Method (ILogger, Exception)" Url="html/6EDCD19D.htm" />
+          <HelpTOCNode Title="Trace Method (ILogger, Func(String))" Url="html/5E3C7219.htm" />
+          <HelpTOCNode Title="Trace Method (ILogger, String)" Url="html/E3E6B4.htm" />
+          <HelpTOCNode Title="Trace Method (ILogger, Exception, Func(String))" Url="html/76461448.htm" />
+          <HelpTOCNode Title="Trace Method (ILogger, Exception, String)" Url="html/8E4FB677.htm" />
+          <HelpTOCNode Title="Trace Method (ILogger, String, Object[])" Url="html/18ED88E3.htm" />
+          <HelpTOCNode Title="Trace Method (ILogger, Exception, String, Object[])" Url="html/30F72B12.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="06ddea02-d3c3-4918-b9f3-3d318fbb1153" Title="Warn Method " Url="html/A9ADCE77.htm">
+          <HelpTOCNode Title="Warn Method (ILogger, Exception)" Url="html/64967408.htm" />
+          <HelpTOCNode Title="Warn Method (ILogger, Func(String))" Url="html/FD50132B.htm" />
+          <HelpTOCNode Title="Warn Method (ILogger, String)" Url="html/FD4F132B.htm" />
+          <HelpTOCNode Title="Warn Method (ILogger, Exception, Func(String))" Url="html/FD4B132B.htm" />
+          <HelpTOCNode Title="Warn Method (ILogger, Exception, String)" Url="html/FD4E132B.htm" />
+          <HelpTOCNode Title="Warn Method (ILogger, String, Object[])" Url="html/FD52132B.htm" />
+          <HelpTOCNode Title="Warn Method (ILogger, Exception, String, Object[])" Url="html/FD4D132B.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
+    <HelpTOCNode Id="5c565145-f3ee-4616-b037-297b98ba881a" Title="ILogManager Interface" Url="html/7D00CBBF.htm">
+      <HelpTOCNode Id="5ddc167b-221f-4372-8edc-fdf4f21a087e" Title="ILogManager Methods" Url="html/16579BB8.htm">
+        <HelpTOCNode Title="GetLogger Method " Url="html/1E1CAB04.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a5d8c777-8bf9-45a1-b5a9-ed5e25e073de" Title="ILogManagerExtensions Class" Url="html/F5FD0039.htm">
+      <HelpTOCNode Id="fc640196-dd58-4ddf-a473-25f875a992a8" Title="ILogManagerExtensions Methods" Url="html/7C5D6DC7.htm">
+        <HelpTOCNode Title="GetLogger Method " Url="html/A13804B8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
     <HelpTOCNode Title="Level Enumeration" Url="html/E2AC2DE3.htm" />
+    <HelpTOCNode Id="592f2607-8e4e-47f8-afd4-28db1f0d9f43" Title="LogManager Class" Url="html/47E3CE75.htm">
+      <HelpTOCNode Id="05b2964e-b4c5-420d-984b-4f679396f9a6" Title="LogManager Properties" Url="html/E66FBACA.htm">
+        <HelpTOCNode Title="Current Property " Url="html/DD7105B8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7533ec51-1c10-4b6d-ac0b-96f8d90d7335" Title="LogManagerBase Class" Url="html/E573B85A.htm">
+      <HelpTOCNode Title="LogManagerBase Constructor " Url="html/22CF39AC.htm" />
+      <HelpTOCNode Id="b1c9ed75-1c9d-4c20-87ee-163236b9e86e" Title="LogManagerBase Methods" Url="html/65411743.htm">
+        <HelpTOCNode Title="GetLogger Method " Url="html/BD25C225.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
   </HelpTOCNode>
 </HelpTOC>

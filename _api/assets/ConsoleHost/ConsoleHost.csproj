@@ -33,12 +33,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Bobs.Lumberjack">
-      <HintPath>..\..\..\packages\Bobs.Lumberjack.1.0.2.0\lib\portable-net45+sl50+win+wpa81+wp80\Bobs.Lumberjack.dll</HintPath>
-    </Reference>
-    <Reference Include="Bobs.Utilities, Version=1.0.12.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Bobs.Lumberjack, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\packages\Bobs.Utilities.1.0.12.0\lib\portable-net45+sl50+win+wpa81+wp80\Bobs.Utilities.dll</HintPath>
+      <HintPath>..\..\..\packages\Bobs.Lumberjack.0.1.0-dev001\lib\portable-net45+win+wpa81\Bobs.Lumberjack.dll</HintPath>
+    </Reference>
+    <Reference Include="Bobs.Utilities, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\packages\Bobs.Utilities.0.1.0-dev001\lib\portable-net45+sl50+win+wpa81+wp80\Bobs.Utilities.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
